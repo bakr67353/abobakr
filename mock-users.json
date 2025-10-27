@@ -1,0 +1,20 @@
+[
+  {
+    "id": "admin-uuid",
+    "email": "abobakr1_1@outlook.com",
+    "password": "$2b$10$Nw8dHJbon1F9W463i7.kbu09/eNulMNektyj0JIrDZEgzAX/IuxGG",
+    "name": "Admin",
+    "role": "admin",
+    "active": true,
+    "created_at": "2025-10-23T12:27:18.456Z"
+  },
+  {
+    "id": "user-uuid",
+    "email": "customercare@Justclean.com",
+    "password": "$2b$10$Nw8dHJbon1F9W463i7.kbu09/eNulMNektyj0JIrDZEgzAX/IuxGG",
+    "name": "Customer Care",
+    "role": "user",
+    "active": true,
+    "created_at": "2025-10-23T12:30:00.000Z"
+  }
+]
